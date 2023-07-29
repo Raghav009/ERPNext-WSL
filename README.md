@@ -1,5 +1,5 @@
 # ERPNext-WSL
-
+ ## If you have aready setup WSL then start from Installing Git in you wsl distro
 ## Install WSL in Windows
     wsl --install
   ### Restart PC
