@@ -139,9 +139,9 @@
   ### Remember the Password for Administrator (admin)
   
 ## Set bench developer mode on the new site    
-    bench --site d-code.localhost set-config developer_mode 1
+    bench --site test.localhost set-config developer_mode 1
     
-    bench --site d-code.localhost clear-cache  
+    bench --site test.localhost clear-cache  
 ## Add Apps to Site test.localhost
     
     bench --site test.localhost install-app payments
