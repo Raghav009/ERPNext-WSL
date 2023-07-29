@@ -9,6 +9,7 @@
 ## Setup User in WSL ubuntu , Open Ubuntu in the Windows Terminal and run the below commands
 
 ## Install git
+    sudo apt update
     sudo apt-get install git
 
 ## install python-dev
